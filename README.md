@@ -6,3 +6,4 @@
     - Thiết kế dữ liệu
     - Thiết kế giao diện
     - Thiết kế xử lý
+    - Kiểm thử 
