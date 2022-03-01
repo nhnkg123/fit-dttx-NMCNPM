@@ -34,3 +34,26 @@ console.log (a);
 console.log ("Remove item in array")
 a.splice(2,1); //index 2, 1 phần tử
 console.log(a);
+
+console.log ("Sort operator")
+a.sort()
+console.log (a)
+
+console.log("Insert or remove an object")
+a.push (88, 66, [1, 2, 3])
+console.log(a)
+let b = a.pop()
+console.log(a)
+console.log(b)
+console.log("Insert each item to array")
+a.push (...[11, 22, 33])
+console.log(a)
+
+//SHIFT and UNSHIFT add head element
+console.log("SHIFT and UNSHIFT")
+a.unshift(999)
+console.log(a)
+b =a.shift()
+console.log(b)
+
+

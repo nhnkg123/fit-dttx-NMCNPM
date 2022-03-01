@@ -27,3 +27,7 @@ switch(m)
         console.log("Thứ 4");
         break;
 }
+//toan tu dieu kien 3 ngoi
+let x = 100
+let k = (n%2)==0 ? true : false;
+console.log(k);
